@@ -553,19 +553,19 @@
  </MediaField>
  <MediaField>
   <Code>32</Code>
-  <Width>382</Width>
+  <Width>381</Width>
  </MediaField>
  <MediaField>
   <Code>65</Code>
-  <Width>513</Width>
+  <Width>512</Width>
  </MediaField>
  <MediaField>
   <Code>30</Code>
-  <Width>354</Width>
+  <Width>353</Width>
  </MediaField>
  <MediaField>
   <Code>59</Code>
-  <Width>416</Width>
+  <Width>415</Width>
  </MediaField>
  <MediaField>
   <Code>75</Code>
@@ -800,13 +800,13 @@
 <CurrentTabHidePanel3>0</CurrentTabHidePanel3>
 <CurrentTabHidePanel4>0</CurrentTabHidePanel4>
 <CurrentTabHidePanel5>2</CurrentTabHidePanel5>
-<NavigatorWidth>204</NavigatorWidth>
+<NavigatorWidth>225</NavigatorWidth>
 <NavigatorThumbBrowserWidth>216</NavigatorThumbBrowserWidth>
 <NavigatorRightPanel>285</NavigatorRightPanel>
-<FormNowPlayingSidebarWidth>228</FormNowPlayingSidebarWidth>
+<FormNowPlayingSidebarWidth>217</FormNowPlayingSidebarWidth>
 <NavigatorQuickBrowseVisible>false</NavigatorQuickBrowseVisible>
 <NavigatorShowJumpList>2</NavigatorShowJumpList>
-<LC_LeftSidebar>5,0,1|36,0,1|9,0,1</LC_LeftSidebar>
+<LC_LeftSidebar>5,0,0|36,0,0|9,0,1</LC_LeftSidebar>
 <LC_LeftMainPanel />
 <LC_MainPanel>11,0,0|13,0,0</LC_MainPanel>
 <LC_RightMainPanel />
@@ -990,7 +990,7 @@
 <PlayerMiniPlayerMod>true</PlayerMiniPlayerMod>
 <Mini_WideWhenDocked>false</Mini_WideWhenDocked>
 <MiniPlayerFields0>65</MiniPlayerFields0>
-<MiniPlayerContrast0>100</MiniPlayerContrast0>
+<MiniPlayerContrast0>0</MiniPlayerContrast0>
 <MiniPlayerFields1>32</MiniPlayerFields1>
 <MiniPlayerContrast1>40</MiniPlayerContrast1>
 <MiniPlayerFields2>0</MiniPlayerFields2>
@@ -1111,7 +1111,7 @@
 <NP_ShowUpcomingTracks>true</NP_ShowUpcomingTracks>
 <NP_LargeAlbumUpgraded>true</NP_LargeAlbumUpgraded>
 <CompactRotateArtistPictures>true</CompactRotateArtistPictures>
-<PM_PanelHeight>572</PM_PanelHeight>
+<PM_PanelHeight>507</PM_PanelHeight>
 <PM_HeaderHidden>false</PM_HeaderHidden>
 <PM_ShowHeader>true</PM_ShowHeader>
 <PM_AutoColor>true</PM_AutoColor>
