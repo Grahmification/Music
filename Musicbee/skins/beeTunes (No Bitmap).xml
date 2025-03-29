@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- the "parent" attribute is used when pre-rendering elements that have the alpha colour channel set eg. parent="TrackInfoPanel" will pre-render the element using the track info panel colours -->
 <!-- each images node can have up to 3 images - 1. default (required) 2. highlight (mouseover) 3. disabled. If highlight or disabled are not provided, the default image is used -->
 <!-- for some elements, multiple sets of images are required, split into categories eg. the track info panel requires left, middle and right side images -->
@@ -217,7 +217,7 @@
 	  <element id="LibraryExplorer.Header.Default" bg="Default-Tab-Top" bg2="Default-Tab-Top" fg="Tab-Text" />
 	  	  
 	<!-- Status bar -->
-	  <element id="Panel.StatusBar.Default" bg="Player-Background" fg="95,95,95" bdr="185,185,185" />
+	  <element id="Panel.StatusBar.Default" bg="Player-Background" fg="Black" bdr="185,185,185" />
 	  <element id="Panel.StatusBarControl.Default" bg="Toolbar-White" fg="85,85,85" />
 	  <element id="Panel.StatusBarControl.Highlight" bg="Border" fg="Spectrum-Light" bdr="Border" /> 
 
