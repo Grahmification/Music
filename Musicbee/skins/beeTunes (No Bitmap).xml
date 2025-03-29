@@ -303,7 +303,7 @@
 	  
 	<!-- Star rating -->
 	<!-- Rated/Unrated default list star color -->
-	  <element id="Panel.StarRating.Default" fg="86,86,86" fg2="215,216,216" />
+	  <element id="Panel.StarRating.Default" fg="Sidebar-Blue" fg2="215,216,216" />
 	<!-- Rated/Unrated highlighted list star color -->
 	  <element id="Panel.StarRating.Highlight" fg="White" fg2="Sidebar-Blue" /> 
 	<!-- Rated/Unrated highlighted, unfocused list star color -->
@@ -402,15 +402,15 @@
 	  <element id="PlayerTopFlat.DisplayPanel" fg="78,80,69" />
 	  <element id="PlayerTopFlat.ProgressBar" bg="Spectrum-Light" fg="Spectrum-Dark" bdr="0,0,0,0" /> 
 	  <element id="PlayerTopFlat.ProgressButton" fg="White" /> 
-	  <element id="PlayerTopFlat.StarRating.Default" fg="Spectrum-Dark"  />
-	  <element id="PlayerTopFlat.StarRating.Lowlight" fg="219,220,223" /> 
+	  <element id="PlayerTopFlat.StarRating.Default" fg="Sidebar-Blue"  />
+	  <element id="PlayerTopFlat.StarRating.Lowlight" fg="190,190,190" /> 
 	  <element id="PlayerTopFlat.SpectrumDefault" bg="Spectrum-Default" />
 	  <element id="PlayerTopFlat.SpectrumDead" bg="Spectrum-Dark" />
 	  <element id="PlayerTopFlat.SpectrumLow" bg="Spectrum-Dark" />
 	  <element id="PlayerTopFlat.SpectrumMedium" bg="Spectrum-Dark" />
 	  <element id="PlayerTopFlat.SpectrumHigh" bg="Spectrum-Light" />
 	  <element id="PlayerTopFlat.Control.Default"  fg="Spectrum-Dark"/> 
-	  <element id="PlayerTopFlat.Control.Disabled" fg="Spectrum-Light"/> 
+	  <element id="PlayerTopFlat.Control.Disabled" fg="Spectrum-Dark"/> 
 	  <element id="PlayerTopFlat.Control.Highlight" fg="66,66,66"/> 
 	  <element id="PlayerTopFlat.Volume" fg="244,166,253" bdr="195,22,15" /> 
 	  <element id="PlayerTopFlat.VolumeButton" bg="220,220,220" bg2="200,200,200" bdr="115,115,115" /> 
