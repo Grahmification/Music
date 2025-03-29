@@ -126,9 +126,9 @@
 	<!-- Panel layout and forward/next navigation buttons -->
 	  <element id="Panel.HeaderButtonOverride.Default" fg="64,64,64" />
 	  <element id="Panel.HeaderButtonOverride.Disabled" fg="50,50,50" />
-	  <element id="Panel.HeaderButtonOverride.Highlight" fg="100,100,100" />
+	  <element id="Panel.HeaderButtonOverride.Highlight" bg="Sidebar-Blue" fg="Black" />
 	<!-- Custom toolbar button with text in caption bar -->
-	  <element id="CaptionBar.CommandButtonOverride" bg="237,237,238" fg="250,250,250" />
+	  <element id="CaptionBar.CommandButtonOverride" bg="Sidebar-Blue" fg="White" />
 	<!-- Custom toolbar button with icon in caption bar -->
 	  <element id="CaptionBar.CommandIconOverride" fg="250,250,250" />
 
