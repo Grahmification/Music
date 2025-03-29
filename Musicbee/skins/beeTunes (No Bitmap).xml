@@ -115,7 +115,7 @@
 	<!-- Tab navigation menu background color -->
 	  <element id="Panel.Header.Default" bg="White" bg2="White" fg="Tab-Text" bdr="209,227,247" />
 	<!-- Default address bar color -->
-	  <element id="Panel.HeaderControl.Default" bg="White" fg="Scrollbar-Right" bdr="Gray-Dark" />
+	  <element id="Panel.HeaderControl.Default" bg="White" fg="Spectrum-Dark" bdr="Gray-Dark" />
 	  <element id="Panel.LocationBarEdit.Default" bg="250,250,250" fg="Black" /> 
 
 	<!-- Toolbar buttons -->
